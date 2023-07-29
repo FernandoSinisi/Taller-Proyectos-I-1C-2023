@@ -1,0 +1,321 @@
+{
+  "adoptioncarddata": [
+    {
+      "id": 1,
+      "title": "Arya",
+      "species": "perro",
+      "size": "pequeño",
+      "age": "3 años",
+      "color": "beish",
+      "others": ["vacunado", "castrado", "desparacitado"],
+      "pictures": "adoptionPet1",
+      "amount": 7000,
+      "description": "Arya es una perra divertida y cariñosa a la que no le gusta gusta estar sola, solo adopción responsable",
+      "location": {
+        "latitude": -34.618055,
+        "longitude": -58.425807
+      },
+      "contact": {
+        "shelter": "Patitas felices",
+        "zone": "Caballito",
+        "email": "adopciones.patitasfelices@gmail.com"
+      },
+      "applicants": ["1"]
+    },
+    {
+      "id": 2,
+      "title": "Espartaco",
+      "species": "perro",
+      "size": "pequeño",
+      "age": "2 meses",
+      "color": "beish",
+      "others": ["vacunado", "desparacitado"],
+      "pictures": "adoptionPet2",
+      "amount": 12000,
+      "description": "Espartaco es un cachorro muy divertido e inquieto que busca una familia que le brinde amor.",
+      "location": {
+        "latitude": -34.618055,
+        "longitude": -58.425807
+      },
+      "contact": {
+        "shelter": "Patitas felices",
+        "zone": "Caballito",
+        "email": "adopciones.patitasfelices@gmail.com"
+      },
+      "applicants": []
+    },
+    {
+      "id": 3,
+      "title": "Lain",
+      "species": "gato",
+      "size": "mediano",
+      "age": "6 meses",
+      "color": "siames",
+      "others": ["castrado", "desparacitado"],
+      "pictures": "adoptionPet3",
+      "amount": 15000,
+      "description": "Hola! Yo soy Lain ❤️ un gatito macho siamés de 6 meses y busco a una familia amorosa que me cuide.",
+      "location": {
+        "latitude": -34.625288,
+        "longitude": -58.504531
+      },
+      "contact": {
+        "shelter": "El campito",
+        "zone": "Villa Devoto",
+        "email": "elcampito_devoto@gmail.com"
+      },
+      "applicants": []
+    },
+    {
+      "id": 4,
+      "title": "Sultán",
+      "species": "perro",
+      "size": "mediano",
+      "age": "9 meses",
+      "color": "negro",
+      "others": ["vacunado", "desparacitado", "castrado"],
+      "pictures": "adoptionPet4",
+      "amount": 5000,
+      "description": "Sultán es un perro muy bueno y activo que le gusta el ejercicio y salir al parque a jugar. Se lleva bien con otros animales y es la mascota ideal si se tienen niños pequeños.",
+      "location": {
+        "latitude": -34.574632,
+        "longitude": -58.54191
+      },
+      "contact": {
+        "shelter": "AdOptAmE",
+        "zone": "San Martín, Bs As",
+        "email": "adoptame_contacto@outlook.com"
+      },
+      "applicants": []
+    },
+    {
+      "id": 5,
+      "title": "Sam",
+      "species": "perro",
+      "size": "grande",
+      "age": "5 años",
+      "color": "marron",
+      "others": ["vacunado", "castrado", "desparacitado"],
+      "pictures": "adoptionPet5",
+      "amount": 100,
+      "description": "Perro macho de unos 5 años, ingresó al refugio tras haber sido atropellado por un auto, nada grave, hoy está fuerte y sano. Es un amor de perrito, es super bueno y se lleva bien con perros, perras, gatos y con toda la gente.... pesa unos 20 kilos",
+      "location": {
+        "latitude": -34.625288,
+        "longitude": -58.504531
+      },
+      "contact": {
+        "shelter": "El campito",
+        "zone": "Villa Devoto",
+        "email": "elcampito_devoto@gmail.com"
+      },
+      "applicants": []
+    },
+    {
+      "id": 6,
+      "title": "Oruro y Gaona",
+      "species": "gato",
+      "size": "chico",
+      "age": "2 meses",
+      "color": "gris",
+      "others": ["desparacitado"],
+      "pictures": "adoptionPet6",
+      "amount": 1000,
+      "description": "Oruro y Gaona son 2 hermanitos muy amigables que buscan que no los separen. Ya están desparacitados y se entregan con compromiso de castración",
+      "location": {
+        "latitude": -34.625288,
+        "longitude": -58.504531
+      },
+      "contact": {
+        "shelter": "El campito",
+        "zone": "Villa Devoto",
+        "email": "elcampito_devoto@gmail.com"
+      },
+      "applicants": []
+    },
+    {
+      "id": 7,
+      "title": "Snow",
+      "species": "gato",
+      "size": "mediano",
+      "age": "5 meses",
+      "color": "blanco",
+      "others": ["vacunado", "desparacitado", "castrado", "hembra"],
+      "pictures": "adoptionPet7",
+      "amount": 3000,
+      "description": "Snow es una gatita muy coqueta que le gusta estar siempre limpia y blanca como la nieve, es inquieta y afilarse las uñas en lo sillones !!. Se entrega con compromiso de castración a los 6 meses y vacunación anual",
+      "location": {
+        "latitude": -34.574632,
+        "longitude": -58.54191
+      },
+      "contact": {
+        "shelter": "AdOptAmE",
+        "zone": "San Martín, Bs As",
+        "email": "adoptame_contacto@outlook.com"
+      },
+      "applicants": []
+    }
+  ],
+  "alertcarddata": [
+    {
+      "id": 1,
+      "title": "Pepina",
+      "species": "perro",
+      "race": "chihuahua",
+      "color": "beish",
+      "others": ["hembra"],
+      "pictures": "alertPet1",
+      "reward": 10000,
+      "lostPlaceDistance": 300,
+      "lostDate": "15/5/2023",
+      "location": {
+        "latitude": -34.60488,
+        "longitude": -58.433977
+      },
+      "description": "Pepina es un perra muy alegre y le gusta jugar con su pelota redonda",
+      "contact": {
+        "phone": "1122334999",
+        "email": "chiwenguencha@gmail.com"
+      },
+      "type": "lost",
+      "isDefault": true
+    },
+    {
+      "id": 2,
+      "title": "Sam",
+      "species": "perro",
+      "race": "caniche",
+      "color": "blanco",
+      "others": [],
+      "pictures": "alertPet2",
+      "reward": 800,
+      "lostPlaceDistance": 300,
+      "lostDate": "2/6/2023",
+      "location": {
+        "latitude": -34.569585,
+        "longitude": -58.495458
+      },
+      "description": "Esta esperando que lo vengan a buscar, tiene miedo con un abrigo como el de la foto y un collar con el nombre Sam.",
+      "contact": {
+        "phone": "1569049382",
+        "email": "martinperez@gmail.com"
+      },
+      "type": "found",
+      "isDefault": true
+    },
+    {
+      "id": 3,
+      "title": "Nina",
+      "species": "gata",
+      "race": "siames",
+      "color": "blanco",
+      "others": [],
+      "pictures": "alertPet3",
+      "reward": 50000,
+      "lostPlaceDistance": 500,
+      "lostDate": "6/5/2023",
+      "location": {
+        "latitude": -34.60488,
+        "longitude": -58.433977
+      },
+      "description": "A Nina le gusta dormir de día y también de noche.",
+      "contact": {
+        "phone": "1142345455",
+        "email": "ninaloss@gmail.com"
+      },
+      "type": "lost",
+      "isDefault": true
+    },
+    {
+      "id": 4,
+      "title": "Lagarto Fleitas",
+      "species": "Lagarto",
+      "race": "exotico",
+      "color": "verde",
+      "others": [],
+      "pictures": "alertPet4",
+      "reward": 250000,
+      "lostPlaceDistance": 1000,
+      "lostDate": "1/6/2023",
+      "location": {
+        "latitude": -34.60488,
+        "longitude": -58.433977
+      },
+      "description": "Sale de la madriguera a cuando hay asado.",
+      "contact": {
+        "phone": "11423432355",
+        "email": "lagartofleitas@gmail.com"
+      },
+      "type": "lost",
+      "isDefault": true
+    },
+    {
+      "id": 5,
+      "title": "Cacatúa",
+      "species": "Cacatúa ninfa",
+      "race": "Pajaro",
+      "color": "amarillo",
+      "others": [],
+      "pictures": "alertPet5",
+      "reward": 1200,
+      "lostPlaceDistance": 1000,
+      "lostDate": "3/7/2023",
+      "location": {
+        "latitude": -34.60488,
+        "longitude": -58.433977
+      },
+      "description": "Ayuda para encontrar a su flia",
+      "contact": {
+        "phone": "11423222355",
+        "email": "cacatua@gmail.com"
+      },
+      "type": "found",
+      "isDefault": true
+    },
+    {
+      "id": 6,
+      "title": "Perro busca familia",
+      "species": "Perro",
+      "race": "Mixta",
+      "color": "Marron",
+      "others": [],
+      "pictures": "alertPet6",
+      "reward": 3000,
+      "lostPlaceDistance": 500,
+      "lostDate": "27/5/2023",
+      "location": {
+        "latitude": -35.187423,
+        "longitude": -59.093431
+      },
+      "description": "Se busca a su familia‼️ Macho encontrado el 27/5 en Lobos, donde se tiran en paracaídas. Esta castrado y en muy buen estado.",
+      "contact": {
+        "phone": "11111222355",
+        "email": "perro209@gmail.com"
+      },
+      "type": "found",
+      "isDefault": true
+    },
+    {
+      "id": 7,
+      "title": "Gato encontrado",
+      "species": "Gato",
+      "race": "Macho",
+      "color": "Gris",
+      "others": [],
+      "pictures": "alertPet7",
+      "reward": 3000,
+      "lostPlaceDistance": 500,
+      "lostDate": "27/5/2023",
+      "location": {
+        "latitude": -34.617306,
+        "longitude": -58.368465
+      },
+      "description": "Gato encontrado en paseo colon e independencia, le dan comida los chicos de la facultad de ingenieria. Se nota que es casero y esta perdido. Le buscamos familia.",
+      "contact": {
+        "phone": "11111222355",
+        "email": "gato@gmail.com"
+      },
+      "type": "found",
+      "isDefault": true
+    }
+  ]
+}

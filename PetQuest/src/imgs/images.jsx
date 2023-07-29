@@ -1,0 +1,70 @@
+export const images = {
+  adoptionPet1: [
+    require('./adoption/pet1_1.png'),
+    require('./adoption/pet1_2.png'),
+    require('./adoption/pet1_3.png'),
+    require('./adoption/pet1_4.png'),
+  ],
+  adoptionPet2: [
+    require('./adoption/pet2_1.png'),
+    require('./adoption/pet2_2.png'),
+    require('./adoption/pet2_3.png'),
+    require('./adoption/pet2_4.png'),
+  ],
+  adoptionPet3: [
+    require('./adoption/pet3_1.png'),
+    require('./adoption/pet3_2.png'),
+    require('./adoption/pet3_3.png'),
+    require('./adoption/pet3_4.png'),
+  ],
+  adoptionPet4: [
+    require('./adoption/pet4_1.png'),
+    require('./adoption/pet4_2.png'),
+    require('./adoption/pet4_3.png'),
+  ],
+  adoptionPet5: [
+    require('./adoption/pet5_1.png'),
+    require('./adoption/pet5_2.png'),
+    require('./adoption/pet5_3.png'),
+  ],
+  adoptionPet6: [
+    require('./adoption/pet6_1.png'),
+    require('./adoption/pet6_2.png'),
+    require('./adoption/pet6_3.png'),
+    require('./adoption/pet6_4.png'),
+  ],
+  adoptionPet7: [
+    require('./adoption/pet7_1.png'),
+    require('./adoption/pet7_2.png'),
+    require('./adoption/pet7_3.png'),
+    require('./adoption/pet7_4.png'),
+    require('./adoption/pet7_5.png'),
+  ],
+  alertPet1: [
+    require('./alert/pet1_1.png'),
+    require('./alert/pet1_2.png'),
+    require('./alert/pet1_3.png'),
+    require('./alert/pet1_4.png'),
+    require('./alert/pet1_5.png'),
+  ],
+  alertPet2: [require('./alert/pet2_1.png'), require('./alert/pet2_2.png')],
+  alertPet3: [require('./alert/pet3_1.png')],
+  alertPet4: [require('./alert/pet4_1.png')],
+  alertPet5: [
+    require('./alert/pet5_1.png'),
+    require('./alert/pet5_2.png'),
+    require('./alert/pet5_3.png'),
+    require('./alert/pet5_4.png'),
+  ],
+  alertPet6: [
+    require('./alert/pet6_1.png'),
+    require('./alert/pet6_2.png'),
+    require('./alert/pet6_3.png'),
+  ],
+  alertPet7: [
+    require('./alert/pet7_1.png'),
+    require('./alert/pet7_2.png'),
+    require('./alert/pet7_3.png'),
+    require('./alert/pet7_4.png'),
+  ],
+};
